@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ilForno</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sedes">Sedes</string>
+    <string name="Florida">Florida</string>
+    <string name="Laureles">Laureles</string>
+    <string name="Palmas">Palmas</string>
+    <string name="LosColores">Los Colores</string>
+    <string name="SanLucas">San Lucas</string>
+    <string name="GranVia">Gran Via</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sedes">Sedes</string>
+    <string name="descripcion">Comida Italiana</string>
+    <string name="mapa">Mapa</string>
+    <string name="ilforno">ilForno</string>
+    <string name="Sedes">Sedes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
